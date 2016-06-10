@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Video Player\n"
+"POT-Creation-Date: 2015-12-14 23:09+1000\n"
+"PO-Revision-Date: 2015-12-14 23:09+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easy-video-player.php:50
+msgid "Settings"
+msgstr ""
+
+#: easy-video-player.php:62
+msgid "Easy Video Player"
+msgstr ""
+
+#: easy-video-player.php:73
+#, php-format
+msgid ""
+"For detailed documentation please visit the plugin homepage <a target="
+"\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: easy-video-player.php:78
+msgid "General Settings"
+msgstr ""
+
+#: easy-video-player.php:83
+msgid "Enable jQuery"
+msgstr ""
+
+#: easy-video-player.php:85
+msgid "By default this option should always be checked."
+msgstr ""
+
+#: easy-video-player.php:91
+msgid "Save Changes"
+msgstr ""
