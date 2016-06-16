@@ -46,8 +46,8 @@ define('DB_COLLATE', '');
  * @since 2.6.0
  */
 
-/**define( 'AWS_ACCESS_KEY_ID', 'AKIAIEWKL6UG7LTNU6VQ' );
-define( 'AWS_SECRET_ACCESS_KEY', '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' ); */
+define( 'AWS_ACCESS_KEY_ID', 'AKIAIEWKL6UG7LTNU6VQ' );
+define( 'AWS_SECRET_ACCESS_KEY', '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' );
 
 /**#@-*/
 
